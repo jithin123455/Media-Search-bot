@@ -1,4 +1,4 @@
-# Modified Version Of [Media Search bot](https://github.com/Mahesh0253/Media-Search-bot)
+# MEDIA SEARCH BOT WITH IMDB & AUTOFILTER BY [BANDU OF TG](https://github.com/jithin123455)
 
 ## Added Features
 * Imdb posters for autofilter.
